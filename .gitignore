@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Data files
+data/raw/*
+data/processed/*
+data/aggregated/*
+
+# OS
+.DS_Store
